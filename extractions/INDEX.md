@@ -89,3 +89,4 @@
 | 83 | 20 Quantum Cheat Codes That I Wish I Knew In My 20... | YouTube | Personal Development | `#personal-finance` `#career-growth` `#mindset` `#investing` | Backlog | 2026-09-17 | [view](./2026-09-17_20-quantum-cheat-codes-that-i-wish-i-knew-in-my-20s.md) |
 | 84 | AI Agents: The Most Valuable Skill You Can Learn i... | YouTube | AI Agent Systems & Automation |  | Backlog | 2026-09-23 | [view](./2026-09-23_ai-agents-the-most-valuable-skill-you-can-learn-in-2026-full.md) |
 | 85 | How to be AI-First | YouTube | AI-driven organizational transformation | `#aistrategy` `#workflowdesign` `#humanjudgment` `#organizationalchange` | Backlog | 2026-10-01 | [view](./2026-10-01_how-to-be-ai-first_c73dbd13_713abd24.md) |
+| 86 | Every Size Local AI In 24 Minutes | YouTube | Local AI Hardware and Prototyping | `#localai` `#aihardware` `#raspberrypi` `#prototyping` | Backlog | 2026-10-02 | [view](./2026-10-02_every-size-local-ai-in-24-minutes_cc7654e0_008c2960.md) |
